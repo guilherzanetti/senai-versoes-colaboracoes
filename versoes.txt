@@ -1,0 +1,3 @@
+praticando!
+
+lembrei do comando: git status
